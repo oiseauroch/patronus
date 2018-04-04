@@ -1,0 +1,7 @@
+delimiter=;
+questionUrl=./data/questions
+imageChat=./data/images/chat.png
+ImPatronusFolder=./data/ImPatronus/
+patronusUrl=./data/patronus
+locMusic=./data/musics
+autrevaleur=test
